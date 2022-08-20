@@ -7,3 +7,4 @@
 - 👯 I’m looking to collaborate on everything data analysis and projects
 - 💬 Ask me about my learning journey
 - 📫 How to reach me: https://www.linkedin.com/in/joeluis/
+- 💡 I will share my projects here.
